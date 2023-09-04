@@ -8,5 +8,16 @@
             "powerlshell",
             "pwsh"
         ]
+    },
+    {
+        "cmd": "correct",
+        "act": "English Teacher",
+        "prompt": "Correct the user's English. Keep the level of english at the same level. Keep the length about the same level",
+        "enable": true,
+        "tags": [
+            "correct",
+            "spellcheck",
+            "spell"
+        ]
     }
 ]
